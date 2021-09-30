@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Bienvenido a GitHub Pages 
 
-You can use the [editor on GitHub](https://github.com/abd3f/abd3f.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Puedes usar el [editor de GitHub](https://github.com/abd3f/abd3f.github.io/edit/main/README.md) para mantener y previsualizar el contenido de tu sitio web en Markdown. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cada vez que hagas un commit a este repositorio, GitHub Pages correrá [Jekyll](https://jekyllrb.com/) para rehacer las páginas en tu sitio web, desde el contenido en tus archivos de Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es un lenguaje ligero y sencillo de usar para darle estilo a tus escritos. Incluye conversiones como
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-- Bulleted
-- List
+- Listas
+- Desordenadas
 
-1. Numbered
-2. List
+1. Listas
+2. Ordenadas
 
-**Bold** and _Italic_ and `Code` text
+Textos en **Negritas**, _Cursivas_ y `Código`
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para más detalles puedes ver [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas en Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abd3f/abd3f.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Tu sitio web en GitHub Pages utilizará la plantilla y los estilos del tema de Jekyll que hayas seleccionado en tus [ajustes](https://github.com/abd3f/abd3f.github.io/settings/pages). El nombre del tema se guarda en el archivo de configuración de Jekyll `_config.yml`.
 
-### Support or Contact
+### Ayuda o Contacto
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+¿Tienes dudas con GitHub Pages? Revisa nuestra [documentación](https://docs.github.com/categories/github-pages-basics/) o [contacta con soporte](https://support.github.com/contact) y te ayudaremos lo antes posible.
